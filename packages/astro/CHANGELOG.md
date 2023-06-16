@@ -1,5 +1,11 @@
 # astro
 
+## 2.6.5
+
+### Patch Changes
+
+- [#7399](https://github.com/withastro/astro/pull/7399) [`d2020c29c`](https://github.com/withastro/astro/commit/d2020c29cf285e699f92143a70ffa30a85122bb4) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Fix edge case where injected routes would cause builds to fail in a PNPM workspace
+
 ## 2.6.4
 
 ### Patch Changes
